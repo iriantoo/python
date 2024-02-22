@@ -6,7 +6,6 @@ total_biaya_tambahan = 0
 # Membuat sebuah tampilan
 print ("-" * 55)
 print ("-" * 10 + " Program Perencanaan Biaya Liburan "  + "-" * 10)
-print ("-" * 10 + "   Oleh: Irianto (2022051074011)   " + "-" * 10)
 print ("-" * 55)
 
 # Memasukkan nilai / Menginput data
